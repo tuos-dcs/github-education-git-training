@@ -11,6 +11,13 @@ Your journey begins in Module 0, where you’ll setup everything you need to com
 ## Work at your own pace
 There is no grade for this training and no one reviews your work, so feel free to explore at your own pace. We hope the training will help you get started with Git, and GitHub.
 
+## The Modules
+Please feel free to skip modules if you want but some modules do rely on examples created in previous modules.
+
+- Module 0 "Setup Git and GitHub"
+- Module 1 "Git intro"
+- Module 2 "More Git"
+
 ## When you are finished
 
 Once you have completed the training, you’re free to end there with your new knowledge. Or, after you can take a look at the course on GitHub classroom which has some interesting tools for setting up projects and assessments and also some automatic marking features.
