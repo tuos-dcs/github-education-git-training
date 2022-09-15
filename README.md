@@ -15,7 +15,7 @@ There is no grade for this training and no one reviews your work, so feel free t
 Please feel free to skip modules if you want but some modules do rely on examples created in previous modules.
 
 - Module 0 "Setup Git and GitHub"
-- Module 1 "Git intro"
+- Module 1 "Git Basics"
 - Module 2 "More Git"
 
 ## When you are finished
