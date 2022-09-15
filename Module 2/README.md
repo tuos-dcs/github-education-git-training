@@ -14,7 +14,7 @@ In this module you will be introduced to GitHub. This module will cover:
 >*You will need to setup a token to push and pull from GitHub remotely.*
 >*This article explains how it is done.*
 
->[GitHub Token Set up](https://ginnyfahs.medium.com/github-error-authentication-failed-from-command-line-3a545bfd0ca8)
+>[GitHub Token Set up](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
 ## Lessons
 
