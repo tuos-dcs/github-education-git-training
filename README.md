@@ -16,7 +16,7 @@ Please feel free to skip modules if you want but some modules do rely on example
 
 - Module 0 "Setup Git and GitHub"
 - Module 1 "Git Basics"
-- Module 2 "More Git"
+- Module 2 "GitHub Basics"
 
 ## When you are finished
 
