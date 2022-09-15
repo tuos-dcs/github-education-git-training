@@ -9,6 +9,13 @@ In this module you will be introduced to GitHub. This module will cover:
 * The GitHub Workflow
 * Resolving Merge Conflicts
 
+***Top Tip Section***
+
+>*You will need to setup a token to push and pull from GitHub remotely.*
+>*This article explains how it is done.*
+
+>[GitHub Token Set up](https://ginnyfahs.medium.com/github-error-authentication-failed-from-command-line-3a545bfd0ca8)
+
 ## Lessons
 
 **All assignment files can be found at the top of the page.**
@@ -18,6 +25,7 @@ In this module you will be introduced to GitHub. This module will cover:
 [:tv: Module 2.1 Video](https://youtu.be/R2bLo-KiYlU)
 
 :notebook: Complete Module 2.1 Assignment
+
 
 ### Module 2.2: Fetching and Pulling from a Remote
 
